@@ -1,0 +1,3 @@
+# Ignore all files in the salida directory
+salida/*.*
+node_modules/
